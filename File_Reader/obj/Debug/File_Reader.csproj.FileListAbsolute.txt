@@ -1,0 +1,9 @@
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\bin\Debug\File_Reader.exe.config
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\bin\Debug\File_Reader.exe
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\bin\Debug\File_Reader.pdb
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.FileReader.resources
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.Properties.Resources.resources
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.csproj.GenerateResource.Cache
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.csproj.CoreCompileInputs.cache
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.exe
+C:\Users\MMCH\source\repos\File_Reader\File_Reader\obj\Debug\File_Reader.pdb
